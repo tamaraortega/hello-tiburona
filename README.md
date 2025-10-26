@@ -14,27 +14,28 @@ This repository uses the recommended structure for a Soroban project:
 ├── Cargo.toml
 └── README.md
 ```
-🦈 hello-tiburona-rust
+# 🦈 hello-tiburona-rust
 💬 Un saludo de Tamara
 
 Antes de iniciar, quiero compartir mis reflexiones personales del proceso (La tarea de encuentra al 70%, no he podido implementar pruebas):
 
-🏄‍♀️ ¿Qué fue lo más retador?
+## 🏄‍♀️ ¿Qué fue lo más retador?
 Que mi version de SDK no es compatible con 
 
-🐇 ¿Qué aprendiste que no esperabas?
+## 🐇 ¿Qué aprendiste que no esperabas?
 Paciencia con los errores y seguir adelante! Hice bastantes anotaciones de recordatorios. 
 
 Aprendi a hacer un readme y subir el repo sola a GitHub!! Espero haberlo subido bien sjs.
 
-🏖️ ¿Qué aplicarías en tus propios proyectos?
+## 🏖️ ¿Qué aplicarías en tus propios proyectos?
 
 
-🚀 FASE 1: Verificación de instalaciones y creación del proyecto
+# 🚀 FASE 1: Verificación de instalaciones y creación del proyecto
 🔧 Verificar instalaciones
 
 SOROBAN instalado:
 Tuve que instalar Soroban CLI con:
+
 
 cargo install --locked soroban-cli
 soroban --version
@@ -69,7 +70,7 @@ VS Code abierto
 
 Carpeta contracts/ visible
 
-🧱 FASE 2: Implementar las definiciones base
+# 🧱 FASE 2: Implementar las definiciones base
 Paso 2.1: Abrir lib.rs
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/94c772a1-83ce-4be8-8a2c-e97865136a4a" />
 Paso 2.2: Imports y setup inicial
@@ -165,7 +166,7 @@ TTL extendido
 
 Compila sin errores
 
-🔍 FASE 5: Funciones de consulta
+# 🔍 FASE 5: Funciones de consulta
 Recordatorios importantes
 
 ⭐ La flecha (->) indica el tipo de valor que se retorna.
@@ -199,7 +200,7 @@ Entiendes Option vs Result
 
 Compila sin errores
 
-🧑‍💼 FASE 6: Función administrativa
+# 🧑‍💼 FASE 6: Función administrativa
 
 💡 Recordatorio:
 El operador ? indica “si todo está bien, continúa; si no, detente”.
@@ -214,7 +215,7 @@ Control de acceso funcional
 
 Compila sin errores
 
-🧪 FASE 7: Pruebas
+# 🧪 FASE 7: Pruebas
 
 Aqui vienen los errores, estuve intentando corregir pero al final solo logre que 3 de 7 tests corrieran (agrege uno extra). 
 ERROR 1: 
