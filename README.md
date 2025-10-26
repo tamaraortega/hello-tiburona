@@ -20,11 +20,10 @@ This repository uses the recommended structure for a Soroban project:
 Antes de iniciar, quiero compartir mis reflexiones personales del proceso (La tarea de encuentra al 70%, no he podido implementar pruebas):
 
 ## 🏄‍♀️ ¿Qué fue lo más retador?
-Que mi version de SDK no es compatible con 
+Que mi version de SDK no es compatible con el codigo de la tarea entonces tuve que hacer algunas modificaciones. 
 
 ## 🐇 ¿Qué aprendiste que no esperabas?
 Paciencia con los errores y seguir adelante! Hice bastantes anotaciones de recordatorios. 
-
 Aprendi a hacer un readme y subir el repo sola a GitHub!! Espero haberlo subido bien sjs.
 
 ## 🏖️ ¿Qué aplicarías en tus propios proyectos?
@@ -109,7 +108,7 @@ Compila con cargo check
 💬 Al principio no compilaba, pero corregí typos y comas faltantes:
 
 <img width="1059" height="147" alt="image" src="https://github.com/user-attachments/assets/3266ec2d-7d3d-404a-91c4-cf9b75a40e4d" />
-⚙️ FASE 3: Implementar initialize()
+# ⚙️ FASE 3: Implementar initialize()
 Paso 3.1: Firma de la función
 
 💡 ¿Por qué retorna Result<(), Error> y no solo ()?
@@ -141,7 +140,7 @@ Extiende TTL
 
 Compila sin errores
 
-💬 FASE 4: Implementar hello()
+# 💬 FASE 4: Implementar hello()
 
 💡 ¿Por qué retorna Result<Symbol, Error> y no solo Symbol?
 Para manejar errores de forma controlada y segura.
