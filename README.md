@@ -236,6 +236,9 @@ Checkpoint 7
 ✅ Casos exitosos y de error verificados
 
 
-⭐ FASE 8: A penas logre solucionar los tests completo esta fase ![TypingCatTypingGIF](https://github.com/user-attachments/assets/0086e0f2-1edf-4caa-a59b-5aea290cd728)
+⭐ FASE 8: A penas logre solucionar los tests completo esta fase
+
+
+![TypingCatTypingGIF](https://github.com/user-attachments/assets/0086e0f2-1edf-4caa-a59b-5aea290cd728)
 
 
