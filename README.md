@@ -1,8 +1,9 @@
-# Soroban Project
+# 🦈 hello-tiburona-rust
+¡Un saludo de Tamara! 
 
-## Project Structure
+## Estructura del proyecto
 
-This repository uses the recommended structure for a Soroban project:
+El repositorio tiene la siguiente estructura:
 ```text
 .
 ├── contracts
@@ -14,8 +15,6 @@ This repository uses the recommended structure for a Soroban project:
 ├── Cargo.toml
 └── README.md
 ```
-# 🦈 hello-tiburona-rust
-💬 Un saludo de Tamara
 
 Antes de iniciar, quiero compartir mis reflexiones personales del proceso (La tarea de encuentra al 70%, no he podido implementar pruebas):
 
@@ -24,9 +23,8 @@ Que mi version de SDK no es compatible con el codigo de la tarea entonces tuve q
 
 ## 🐇 ¿Qué aprendiste que no esperabas?
 Paciencia con los errores y seguir adelante! Hice bastantes anotaciones de recordatorios. 
-Aprendi a hacer un readme y subir el repo sola a GitHub!! Espero haberlo subido bien sjs.
+¡Aprendi a hacer un readme y subir el repo sola a GitHub! Espero haberlo subido bien. 
 
-## 🏖️ ¿Qué aplicarías en tus propios proyectos?
 
 
 # 🚀 FASE 1: Verificación de instalaciones y creación del proyecto
@@ -224,21 +222,30 @@ ERROR 1:
 ERROR 2: 
 <img width="828" height="95" alt="image" src="https://github.com/user-attachments/assets/97c6bea7-ce74-4168-a565-c945e300d9b3" />
 
+Finalmente lo logre !! 
+<img width="1033" height="281" alt="image" src="https://github.com/user-attachments/assets/8de57d65-1bd8-4ead-a55f-8b4a8589f27c" />
+
 
 Checkpoint 7 
 
 ✅6 tests implementados
-
-❌Todos los tests pasan
-
+✅ Todos los tests pasan
 ✅ Entiendes cada test
-
 ✅ Casos exitosos y de error verificados
 
 
 ⭐ FASE 8: A penas logre solucionar los tests completo esta fase
 
+<img width="945" height="401" alt="image" src="https://github.com/user-attachments/assets/4e48159f-0f2d-4e14-98f6-f9ab63afd5b9" />
 
-![TypingCatTypingGIF](https://github.com/user-attachments/assets/0086e0f2-1edf-4caa-a59b-5aea290cd728)
+WASM 
+
+<img width="910" height="102" alt="image" src="https://github.com/user-attachments/assets/eaa812fe-551f-4b53-b586-daefbb81288a" />
+
+Checkpoint 
+✅Build exitoso
+✅WASM generado
+✅WASM optimizado
+
 
 
