@@ -16,7 +16,6 @@ El repositorio tiene la siguiente estructura:
 └── README.md
 ```
 
-Antes de iniciar, quiero compartir mis reflexiones personales del proceso (La tarea de encuentra al 70%, no he podido implementar pruebas):
 
 ## 🏄‍♀️ ¿Qué fue lo más retador?
 Que mi version de SDK no es compatible con el codigo de la tarea entonces tuve que hacer algunas modificaciones. 
